@@ -1,2 +1,2 @@
 # E-Store
-E-Commerce-Store
+E-Commerce store
